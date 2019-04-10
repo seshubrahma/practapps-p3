@@ -1,0 +1,21 @@
+######################################### 
+# 
+# Example 4: Show off some fancy features 
+# and local predicates. 
+# 
+#########################################
+
++Group = "UNDER" 
++Project = "OTHER"
+
++ProjectDescription = "Using BERT in NLP Class with Porter"
+
+Image_Size    = 4481200
+
+Executable = go.sh
+
+Log = z.log                                                   
+output = outfile.log
+error = errors.log
+
+Queue
