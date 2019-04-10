@@ -16,12 +16,15 @@ https://github.com/allenai/bi-att-flow/blob/master/squad/evaluate-v1.1.py
 
 Run these commands:
 
-`export SQUAD_DIR=/Users/path/to/your/SQuAD/folder`
-`export BERT_BASE_DIR=/Users/path/to/your/uncased_L-12`
+```bash
+$ export SQUAD_DIR=/Users/path/to/your/SQuAD/folder
+$ export BERT_BASE_DIR=/Users/path/to/your/uncased_L-12
+```
 
 You can run BERT on the pre-trained SQuAD with this command:
 
-```python run_squad.py \
+```bash
+$ python run_squad.py \
   --vocab_file=$BERT_BASE_DIR/vocab.txt \
   --bert_config_file=$BERT_BASE_DIR/bert_config.json \
   --init_checkpoint=$BERT_BASE_DIR/bert_model.ckpt \
@@ -34,7 +37,8 @@ You can run BERT on the pre-trained SQuAD with this command:
   --num_train_epochs=2.0 \
   --max_seq_length=384 \
   --doc_stride=128 \
-  --output_dir=/tmp/squad_base/```
+  --output_dir=/tmp/squad_base/
+  ```
 
 
 
