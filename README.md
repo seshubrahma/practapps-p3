@@ -38,10 +38,15 @@ python run_squad.py \
   --max_seq_length=384 \
   --doc_stride=128 \
   --output_dir=/tmp/squad_base/
-  ```
+```
 
+To run this on a Lab machine and not get shutdown:
 
+```
+condor_submit CondorJob.txt
+```
 
+To see the status of the job, run `condor_q` to see it and if it is running.
 
 
 
