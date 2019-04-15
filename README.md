@@ -20,7 +20,7 @@ Run these commands:
 
 ```bash
 export SQUAD_DIR=/Users/path/to/your/SQuAD/folder
-export BERT_BASE_DIR=/Users/path/to/your/uncased_L-12
+export BERT_BASE_DIR=/Users/path/to/your/uncased_L-12_H-768_A-12
 ```
 
 You can run BERT on the pre-trained SQuAD with this command:
