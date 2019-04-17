@@ -23,9 +23,8 @@ del s['data'][0]['paragraphs'][0]
 
 for p in paragraphs:
 	qObj = copy.deepcopy(testObj)
-	qObj['question'] = [questionWeAreAsking]
+	qObj['question'] = questionWeAreAsking
 	qObj['id'] = str(uuid.uuid4())
-
 	pobj = {}
 	pobj['context'] = p
 	pobj['qas'] = [qObj]
