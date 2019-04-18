@@ -1,0 +1,1 @@
+…      The digital advocacy organization FightFor the Future launched a registration chatbot last week called HelloVote with backing from several tech companies , including Genius , Twilio , and Automattic .The bot lets voters register via SMS ( text   ) or Facebook Messenger ( go to m.   in Messenger ) and the entire process takes only a minute .

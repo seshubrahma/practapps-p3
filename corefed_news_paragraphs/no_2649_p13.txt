@@ -1,0 +1,1 @@
+In a football game , all of the parameters are known .You can know that the home team is up by 7 points with 5 minutes 41 seconds to go , with a     on the    line .Ignoring factors like team strength and weather , this tells you everything you need to know to make a simple forecast about who is going to win .Elections are n’t like that .

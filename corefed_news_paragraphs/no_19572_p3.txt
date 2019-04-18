@@ -1,0 +1,1 @@
+"Here ’s a chart of the stock price over the past five years : " ’’ ’Shares really took off in 2013 , and with some swoons along the way , peaked in fall of 2014 .There was then a slide , followed by a recovery , then a big dip in 2015 before another recovery .Over the full    period , the return has been 525%.’ ’’

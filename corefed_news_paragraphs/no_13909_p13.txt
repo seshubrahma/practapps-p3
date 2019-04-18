@@ -1,0 +1,1 @@
+While many users are unaware of 2FA , others use it on a few services user education often only when they initially log on to others system .2FA has limited efficacy if a hacker accesses an authenticated computer with already open , active sessions .And it has even less value 2FAonly some users adopt it , while others do 2FA , providing an alternative conduit for the hacker .

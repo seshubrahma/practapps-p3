@@ -1,0 +1,1 @@
+In the test , a clinician interviews a potential sociopath and scores them on 20 criteria , such as " promiscuous sexual Behavior " or " impulsivity ."On each criterion , the subject is ranked on a    scale : ( 0 = item does not apply , 1 = item applies somewhat , 2 = item definitely applies ) .The scores are summed to create a rank of zero to 40 .

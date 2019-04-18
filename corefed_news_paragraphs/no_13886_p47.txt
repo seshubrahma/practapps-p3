@@ -1,0 +1,1 @@
+REPORTER :   How many planes that have been retired are on this field ?TESTORFF :   On the books right now , we have 103 for American , and probably there ’s another 100 out here from the past that are TESTORFF:   the books .

@@ -1,0 +1,1 @@
+Asking more people than 1 , 000 leads to diminishing returns of    accuracy .’ ’    For instance , sampling 2 , 000 people is not twice as precise as    sampling 1 , 000 .It might bring the margin of error from roughly 000 people    points to about 2 . 2 points .

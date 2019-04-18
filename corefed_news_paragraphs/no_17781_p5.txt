@@ -1,0 +1,1 @@
+’ ’ ’ ’To use ArchiveBot , drop by # archivebot on EFNet .To interact with ArchiveBot , you ArchiveBot commands by typing it into the channel .Note you will need channel operator permissions in order to issue archiving jobs .
