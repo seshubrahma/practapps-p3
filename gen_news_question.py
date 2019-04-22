@@ -10,8 +10,8 @@ f = open("truncated_train.json").read()
 s = json.loads(f)
 
 paragraphs = []
-for file in os.listdir('corefed_news')[:10]:
-	paragraphs.append(open('corefed_news/'+file).read())
+for file in os.listdir('corefed_news_paragraphs'):
+	paragraphs.append(open('corefed_news_paragraphs/'+file).read())
 
 print paragraphs
 
@@ -22,6 +22,7 @@ testObj = copy.deepcopy(s['data'][0]['paragraphs'][0]['qas'][0])
 del s['data'][0]['paragraphs'][0]
 
 for p in paragraphs:
+	print p
 	qObj = copy.deepcopy(testObj)
 	qObj['question'] = questionWeAreAsking
 	qObj['id'] = str(uuid.uuid4())
@@ -29,8 +30,6 @@ for p in paragraphs:
 	pobj['context'] = p
 	pobj['qas'] = [qObj]
 	s['data'][0]['paragraphs'].append(pobj)
-
-s['data'][0]['paragraphs']
 
 f = open("newsQuestions.json",'w')
 f.write(json.dumps(s))
