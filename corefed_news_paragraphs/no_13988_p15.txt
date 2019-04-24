@@ -1,1 +1,0 @@
-Data about the airspeed , altitude , pitch , acceleration , roll ,   fuel , and the list goes on and on .But to make sense of the data , first , you have to find it .   Not the data easy   thing to do when a plane crashes into the ocean .    Both black box components are outfitted with underwater locator beacons ,   which    the moment they come into contact

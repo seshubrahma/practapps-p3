@@ -1,0 +1,1 @@
+In December 2016, Carr wrote in a post on Medium: A common misconception of "threat group" is that [it] refers to a group of people. It doesn’t. Here’s how ESET describes SEDNIT, one of the names for the threat group known as APT28, Fancy Bear, etc. 

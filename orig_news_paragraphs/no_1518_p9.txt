@@ -1,0 +1,1 @@
+At this point in the election cycle, it uses a longer time window to calculate these averages. This steadiness means it is more stable and less inclined to chase after the most recent poll. But it also means it is slower to react to developing trends, such as recent polling that may indicate a tightening race. This can be a feature or a bug, depending on your perspective. 

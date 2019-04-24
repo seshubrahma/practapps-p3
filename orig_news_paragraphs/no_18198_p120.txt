@@ -1,0 +1,1 @@
+’ " There are different structures. At the lowest level, you’re an operator, and then you get into the multitask worker [position]. 

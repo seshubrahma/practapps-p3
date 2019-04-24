@@ -13,7 +13,7 @@ import os
 #multiple text files with one paragraph each FOR one news article txt
 
 def main(text, filename):
-    output_dir = 'corefed_news_paragraphs'
+    output_dir = 'orig_news_paragraphs'
     make_paragraphs(text, filename, output_dir)
 
 
@@ -44,9 +44,9 @@ def make_paragraphs(text, filename, output_dir):
 
             print(output_filename)
 
-        with open(output_file, 'w+', encoding='utf8') as f:
+        with open(output_file, 'w', encoding='utf8') as f:
             while ((counter < 4) and (index != len(all_sentences)-1)):
-                f.write(str(all_sentences[index]))
+                f.write(str(all_sentences[index]) +" ")
                 counter += 1
                 index += 1
 
@@ -55,7 +55,7 @@ def make_paragraphs(text, filename, output_dir):
 if __name__ == '__main__':
     nlp = spacy.load('en')
     
-    directory_name = 'corefed_news'
+    directory_name = 'orig_news'
     directory = os.fsencode(directory_name)
 
     for file in os.listdir(directory):

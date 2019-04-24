@@ -1,1 +1,0 @@
-"The polling gurus at Nate Silver ’s FiveThirtyEight have been tracking the   in the early primary and caucus races ." ’FiveThirtyEight provides : A " " model that is based solely on public polling within a particular state , and a " " model that additionally factors in national polling and endorsements from sitting governors and members of Congress.

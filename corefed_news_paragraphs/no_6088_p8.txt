@@ -1,1 +1,0 @@
-"Per CNN policy , it will be CNN only if that graphic is deleted ."

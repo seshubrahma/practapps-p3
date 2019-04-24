@@ -1,0 +1,1 @@
+But the proposed changes have run into opposition from the team of coders responsible for maintaining the basic Bitcoin software. Many Chinese Bitcoin companies have sided with the coders. That disagreement has led to slowdowns on the Bitcoin network, with some transactions taking days to be processed. The slowdowns have made it harder to use Bitcoin for everyday payments. 

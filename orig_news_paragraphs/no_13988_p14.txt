@@ -1,0 +1,1 @@
+Then, there`s the flight data recorder.   It gathers 25 hours of technical  data from airplane sensors, recording several thousand discreet pieces of  information.   Data about the airspeed, altitude, pitch, acceleration, roll,  fuel, and the list goes on and on. But to make sense of the data, first, you have to find it.   

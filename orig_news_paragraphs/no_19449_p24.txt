@@ -1,0 +1,1 @@
+It is a   "Search" product not a "News" product, and so is not editorially   vetted. And while Google’s algorithms are good, the "70 News"   situation shows they can be gamed. ’ ’    This whole situation seems like an easy fix for Google: Have the   sections that appear to be news only pull from Google News, which   has stricter oversight. 

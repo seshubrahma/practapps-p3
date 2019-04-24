@@ -1,0 +1,1 @@
+Note that phishing emails are often sent by   computers and camouflaged with personal information to make them look realistic   —    they’re not always easy to spot. Ransomware encrypts data, so one of the best defenses against ransom attacks is to maintain good backups of valuable data. 

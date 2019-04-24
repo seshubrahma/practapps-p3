@@ -1,1 +1,0 @@
-" ’Executive Commentary : " ’ ’Ticker : BAC’" Company Description : One of the world ’s largest retail and investment banks ." ’Executive Commentary : " ’ ’Ticker : OMC’ ’Company Description : A global marketing and corporate communications firm with subsidiaries such as BBDO.’ ’Executive Commentary :

@@ -1,0 +1,1 @@
+—   that is, examining the data, whatever it might be, after the fact, in order to identify correlations and patterns.   That sort of analysis can then be used to build better predictive models.   But of course, first you have to have the data hence the value of   at every opportunity 

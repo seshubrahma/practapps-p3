@@ -1,0 +1,1 @@
+" ’   Why 1, 000? ’ "    It’s a big enough number to be reasonably confident in the result     —   within the margin of error 19 out of 20 times. There’s a lot of   variety in a group of 1, 000 people, so it captures many of the   elements in the larger group. 

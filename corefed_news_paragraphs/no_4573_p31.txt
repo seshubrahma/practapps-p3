@@ -1,1 +1,0 @@
-We conducted a binary logistic regression .The dependent variable was whether the petitioner received a pardon .We tested all other available variables against the outcome .In the end , variables that we included in the analysis were :    …      

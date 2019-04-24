@@ -1,0 +1,1 @@
+" Alfa Bank hired U. S. cybersecurity firm Mandiant to look into the matter, and it ended up with a "working hypothesis" that Trump Hotels sent over marketing emails, annoying spam that set off the bank’s computer network defenses, which in turn caused these DNS lookups. The results were inconclusive. Investigators couldn’t find a single marketing email sent that summer. 

@@ -1,1 +1,0 @@
-Ticker :LHO’ ’Company Description : A hotel operator with 46 properties across the US.’ ’Executive Commentary :" ’ ’Ticker : PHM’ ’Company Description : PulteGroup is the third largest homebuilder in the US’ ’Executive Commentary :

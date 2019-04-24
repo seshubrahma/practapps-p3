@@ -1,1 +1,0 @@
-Our model starts with a weighted average We polls We each state our model polls conducted more recently and polls with a larger sampleWe our model weight in the average .At this point in the election cycle , it uses a longer time window to calculate these averages .This steadiness means it is more stable and less inclined to chase after the most our model poll .

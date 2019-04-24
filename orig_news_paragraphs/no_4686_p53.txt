@@ -1,0 +1,1 @@
+Good password security is also important for defense against ransom attacks. Users often rely on a single password that isn’t difficult for hackers to guess, used on many different websites. 

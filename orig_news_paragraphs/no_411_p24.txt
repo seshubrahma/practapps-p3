@@ -1,0 +1,1 @@
+Experts advise doing some research: Make sure the device has security features built in. And put it on a guest   network, not the one for your computing devices, so it can’t be used to snoop through your data. _ _ 

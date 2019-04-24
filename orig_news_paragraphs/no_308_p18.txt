@@ -1,0 +1,1 @@
+It is possible that this noncitizen was erroneously matched to the voter file. The matching process is good but imperfect, and becomes harder with less information   —   like the absence of a specific address or date of birth. That the respondent said he or she wasn’t registered certainly raises the possibility that the match was wrong. 

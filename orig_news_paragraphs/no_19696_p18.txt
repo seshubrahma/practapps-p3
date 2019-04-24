@@ -1,0 +1,1 @@
+These systems are different   …      What are the surety vulnerabilities for such a system, so to speak? How would you address them? How would you certify that the system will work when you need it to work and will do what it’s supposed to do?" 

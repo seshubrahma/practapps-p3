@@ -1,0 +1,1 @@
+A   security firm discovered preinstalled software in some Android phones that was sending text messages, contact lists and other data to a server in China every 72 hours. The scope of the issue is not clear. The software provider, Shanghai Adups Technology, said its code runs on 700 million phones, cars and other smart devices. • 

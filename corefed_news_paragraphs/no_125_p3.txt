@@ -1,1 +1,0 @@
-said : " We do n’t believe we were hacked .Instead , we initial investigation suggests that this was caused by an internal routing error .we take we network security very seriously and will continue with a deeper investigation , which may take some time ."

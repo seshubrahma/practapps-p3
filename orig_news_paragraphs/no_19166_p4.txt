@@ -1,0 +1,1 @@
+IANA functions include   maintaining the registry of IP addresses and the allocation of     resources. ’ ’    The entire ordeal sounds extremely complicated   —   and it did not   come without its fair share of controversy. 

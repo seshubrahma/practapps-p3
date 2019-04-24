@@ -1,0 +1,1 @@
+Ignoring factors like team strength and weather, this tells you everything you need to know to make a simple forecast about who is going to win. Elections aren’t like that. We can’t get a perfect representation of people’s voting intentions, so we have to rely on polling. And polling is a messy business. 

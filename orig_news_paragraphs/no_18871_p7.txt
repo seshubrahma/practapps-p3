@@ -1,0 +1,1 @@
+Claims to the contrary   simply misunderstand how Autocomplete works. Our Autocomplete   algorithm will not show a predicted query that is offensive or   disparaging when displayed in conjunction with a person’’s name.    More generally, our autocomplete predictions are produced based   on a number of factors including the popularity of search terms. " ’ ’    

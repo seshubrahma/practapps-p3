@@ -1,0 +1,1 @@
+The back story   Last year, a small group of computer scientists obtained internet traffic records from the complex system that serves as the internet’s phone book. Access to these records is reserved for highly trusted cybersecurity firms and companies that provide this lookup service. These signals were captured as they traveled along the internet’s Domain Name System (DNS). 

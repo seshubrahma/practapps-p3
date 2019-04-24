@@ -1,0 +1,1 @@
+: Pegatron has a survey system that accepts complaints from workers directly. That is a good system, but it has not been implemented in Pegatron factories, at least factories I worked at. ’ ’ They have a complaint system, but who is handling those complaints? 

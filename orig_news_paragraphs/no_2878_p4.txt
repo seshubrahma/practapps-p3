@@ -1,0 +1,1 @@
+@EveryTrumpDonor represents an emerging class of politicized bots. You could think of them as "protest bots" or, as the   theorist Mark Sample calls them, "bots of conviction. " Many bots set up to spread campaign propaganda or disinformation masquerade as humans, but protest bots typically own their cyborg natures. 

@@ -1,0 +1,1 @@
+For now, you’ll see a series of circles above, each sized based on the number of appointed jobs. The outermost circles are the agencies themselves, within them are the specific offices. Hover over or touch each circle for details, and click on one to zoom in.   There actually are even more jobs beyond the   ones represented above. 

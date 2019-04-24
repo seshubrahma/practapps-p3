@@ -1,0 +1,1 @@
+Our model is slow to move. This is by design. Our model starts with a weighted average of polls in each state, giving polls conducted more recently and polls with a larger sample size a greater weight in the average. At this point in the election cycle, it uses a longer time window to calculate these averages. 

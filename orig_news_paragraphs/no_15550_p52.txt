@@ -1,0 +1,1 @@
+The radar system can automatically detect and track a flying object. But you still need a human to confirm it is a drone and activate the jammer. RADFORD:   Our system is very quick to respond, from detect, track to disruption takes just 15 seconds.    

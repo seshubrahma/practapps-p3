@@ -1,0 +1,1 @@
+Let’s say you want to forecast the average margin of national polls for the next month. Would you rather take the average of the polls from the previous two weeks or average every poll from the previous two months? More often than not, you’d be better off taking the average of the longer period. This informs the approach taken by our model. 

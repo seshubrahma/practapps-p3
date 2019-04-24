@@ -1,0 +1,1 @@
+" You can’t have people in the production line itself , otherwise you drop to people speed. So there will be no people in production process itself. 

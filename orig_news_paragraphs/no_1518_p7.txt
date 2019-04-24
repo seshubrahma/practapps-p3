@@ -1,0 +1,1 @@
+We’ll update our forecast every day until Election Day. Check here to see our predictions and that of others, and to play around with the possible paths that could lead Mrs. Clinton or Mr. Trump to victory. Below is more about how we built our model. Our model is slow to move. 

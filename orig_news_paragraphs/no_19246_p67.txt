@@ -1,0 +1,1 @@
+’ "   Let’s say that a poll comes out showing Clinton with 51% support   and Trump with 49%. The margin of error is plus or minus 3   points. Are the two candidates statistically tied, or is Clinton   slightly ahead? 

@@ -1,0 +1,1 @@
+The document explains the TSDB, managed by the FBI, includes "biographic identifiers for those known either to have or be suspected of having ties to terrorism. In some instances, it also includes biometric information on such people. " However, to make it into the TDSB and other databases, the paper documents, sufficient identifiers must exist. " 

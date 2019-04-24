@@ -1,0 +1,1 @@
+" It’s more complicated than storing all this stuff on a server. " Signal occasionally runs into glitches, such as when it comes to synchronizing data between computers and smartphones. In my tests, there were several occasions when Signal messages that were sent or received on my smartphone did not immediately show up inside the desktop app   

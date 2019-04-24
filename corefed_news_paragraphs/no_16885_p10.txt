@@ -1,1 +1,0 @@
-4 % of Americans were insured .Verdict :True .Reality Check :

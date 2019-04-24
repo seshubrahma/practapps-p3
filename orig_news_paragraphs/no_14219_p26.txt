@@ -1,0 +1,1 @@
+(END VIDEOTAPE) AZUZ:   All right.   Next, accelerometers, gyroscopes, GPS    sensors are being used to measure everything from how hard a hit is, to how quickly an athlete accelerates, to the direction a player favors when taking off.   

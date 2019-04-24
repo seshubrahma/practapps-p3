@@ -1,0 +1,1 @@
+Cendyn’s software, like its event planning tool Metron, sends email and thus relies on the 20 different email servers rented by the company. After "a thorough network analysis," Cendyn has said that it found a bank client had used Metron to communicate with AlfaBank. com.    But Alfa Bank starkly denies "any dealings with Cendyn. 

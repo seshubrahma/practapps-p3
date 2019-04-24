@@ -1,1 +1,0 @@
-Note you will need channel operator permissions in order to issue archiving jobs .The dashboard shows the sites being downloaded currently .’ ’There is a dashboard running for the archivebot process at . ’ " ArchiveBot ’s source ArchiveBot can be found at . ’t " ’   ’ ’    

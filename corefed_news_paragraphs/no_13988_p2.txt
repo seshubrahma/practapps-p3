@@ -1,1 +1,0 @@
-CNN 10 ANCHOR :   This is CNN 10 .   Ten minutes of world news   explained .   I`m Carl Azuz .

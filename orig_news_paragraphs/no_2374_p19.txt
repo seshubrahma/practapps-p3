@@ -1,0 +1,1 @@
+Polling is hard. A lot of things can go wrong, from question wording to weighting a sample or selecting likely voters. These choices can make a big difference   —   even with the same data. 

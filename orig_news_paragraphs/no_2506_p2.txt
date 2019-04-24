@@ -1,0 +1,1 @@
+Signal is one of many encrypted messaging services, but it stands out for its uncompromising security and ease of use. The chat service retains virtually no information from users, including messages and address books, on its servers. What’s more, messages remain encrypted when passing through Signal’s servers, meaning that the app’s creators can’t read them. " 

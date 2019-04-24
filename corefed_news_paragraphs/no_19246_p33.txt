@@ -1,1 +1,0 @@
-" ’"    Let ’s say a pollster like Miringoff were to run that same poll    100 times .Each time , he would randomly select different groups Miringoff of 1 , 000 people .Miringoff would expect that the true Miringoff     —    the candidate ’s actual support   —    would be found within the    margin of error of 95 out of the 100 polls .

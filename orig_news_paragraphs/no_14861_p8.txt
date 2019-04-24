@@ -1,0 +1,1 @@
+These signals were captured as they traveled along the internet’s Domain Name System (DNS). These leaked records show that Alfa Bank servers repeatedly looked up the unique internet address of a particular Trump Organization computer server in the United States. In the computer world, it’s the equivalent of looking up someone ’s phone number     

@@ -1,0 +1,1 @@
+" Then Thays added the problem’s final complication: "How many questions does it take if I’m allowed to lie once?" As they deduced the strategy, they were working up to a harder problem, related to Hamming codes, the   codes that underlie digital storage and communications. " 

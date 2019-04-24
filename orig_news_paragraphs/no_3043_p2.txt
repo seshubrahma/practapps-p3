@@ -1,0 +1,1 @@
+But what does this really prove? Wordfence, a WordPress security company specializing in analyzing PHP malware, examined these indicators and didn’t find any hard evidence of Russian involvement. Instead, Wordfence found the attack software was P. AS. 3. 

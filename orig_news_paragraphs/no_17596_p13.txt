@@ -1,0 +1,1 @@
+’  ’ ’    Apple’’s Mesa facility has been called a "" for Apple’’s cloud operations. Apple relies on   outside vendors for its cloud operations but has been building up   the capability to run its own servers at scale   which   would mean a significant amount of assembly and construction. ’ "    

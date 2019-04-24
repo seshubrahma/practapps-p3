@@ -1,0 +1,1 @@
+" I’d also like to take note of an interesting commentary in Axios by Jim VandeHei and Mike Allen.   As they wrote the other day, ‘ 
