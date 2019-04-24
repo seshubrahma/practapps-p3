@@ -1,6 +1,5 @@
 import json
 
-
 def main()
 
 	expected_set = set() #fill this with the question answer pairs we created
@@ -13,6 +12,7 @@ def main()
 	add_actual_output(actual_set)
 
 
+
 def add_expected_ground_truth(expected_set):
 	#read from text file?
 	#set of tuples (q,a)
@@ -23,11 +23,6 @@ def add_actual_output(actual_set):
 
 	with open('.json', 'r') as f:
 	output = json.load(f)
-
-
-
-
-
 
 
 def calculate_metrics(actual, expected, name):
