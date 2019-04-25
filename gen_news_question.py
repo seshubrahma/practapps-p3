@@ -5,7 +5,7 @@ import json
 import pprint
 import spacy
 
-questionWeAreAsking = 'did Russia collude with the trump campaign?'
+questionWeAreAsking = 'what were the most discussed topics at the BET awards?'
 
 nlp = spacy.load("en_core_web_sm")
 doc = nlp(questionWeAreAsking)
