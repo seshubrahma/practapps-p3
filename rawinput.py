@@ -11,7 +11,7 @@ count = 0;
 article_name = ""
 data_list = []
 Dict['data'] = data_list
-with open('answers.txt', "r") as read_file:
+with open('nlp-qas.txt', "r") as read_file:
     for line in read_file:
 
         #add qas, id, etc in new_article_dict
