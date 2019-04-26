@@ -53,27 +53,37 @@ def metric_max_over_ground_truths(metric_fn, prediction, ground_truths):
 def evaluate(dataset, predictions):
     f1 = exact_match = total = 0
     for article in dataset:
+        print("article", article)
         for paragraph in article['paragraphs']:
+            print("paragraph", paragraph)
             for qa in paragraph['qas']:
+                print("qa", qa)
                 total += 1
                 if qa['id'] not in predictions:
+                    print("qa[id] not in predictions")
                     message = 'Unanswered question ' + qa['id'] + \
                               ' will receive score 0.'
                     print(message, file=sys.stderr)
                     continue
                 ground_truths = list(map(lambda x: x['text'], qa['answers']))
+                print("groundtruths", ground_truths)
                 prediction = predictions[qa['id']]
+                print("prediction", prediction)
                 exact_match += metric_max_over_ground_truths(
                     exact_match_score, prediction, ground_truths)
+                print("exactmatch", exact_match)
                 f1 += metric_max_over_ground_truths(
                     f1_score, prediction, ground_truths)
+                print("f1", f1)
 
     exact_match = 100.0 * exact_match / total
+    print("exact match final", exact_match)
     f1 = 100.0 * f1 / total
 
     return {'exact_match': exact_match, 'f1': f1}
 
 
+#originally for 1.1 version
 if __name__ == '__main__':
     expected_version = '2.0'
     parser = argparse.ArgumentParser(
