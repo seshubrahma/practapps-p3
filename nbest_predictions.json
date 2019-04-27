@@ -1,0 +1,1146 @@
+{
+    "ff0c6db1-0a83-4900-b25d-a4e3d1fb49b7": [
+        {
+            "text": "bet awards sunday night. three things before we delve into his speech:[", 
+            "probability": 0.0555642842825961, 
+            "start_logit": 0.40901631116867065, 
+            "end_logit": 0.3049694895744324
+        }, 
+        {
+            "text": "let me be sexist (because", 
+            "probability": 0.05528903162030349, 
+            "start_logit": 0.32366496324539185, 
+            "end_logit": 0.38535475730895996
+        }, 
+        {
+            "text": "before we delve into his speech:[[warning: strong language] 1. let me be sexist (because", 
+            "probability": 0.05486832916537797, 
+            "start_logit": 0.3160267174243927, 
+            "end_logit": 0.38535475730895996
+        }, 
+        {
+            "text": "be sexist (because", 
+            "probability": 0.05458871294069156, 
+            "start_logit": 0.31091755628585815, 
+            "end_logit": 0.38535475730895996
+        }, 
+        {
+            "text": "ve into his speech:[[warning: strong language] 1. let me be sexist (because", 
+            "probability": 0.05239388297500401, 
+            "start_logit": 0.2698802649974823, 
+            "end_logit": 0.38535475730895996
+        }, 
+        {
+            "text": ": strong language] 1. let me be sexist (because", 
+            "probability": 0.05141499517844298, 
+            "start_logit": 0.25102028250694275, 
+            "end_logit": 0.38535475730895996
+        }, 
+        {
+            "text": "before we delve into his speech:[", 
+            "probability": 0.05063034155644873, 
+            "start_logit": 0.3160267174243927, 
+            "end_logit": 0.3049694895744324
+        }, 
+        {
+            "text": ". let me be sexist (because", 
+            "probability": 0.04926809990701888, 
+            "start_logit": 0.2083672285079956, 
+            "end_logit": 0.38535475730895996
+        }, 
+        {
+            "text": "bet awards sunday night. three things before we delve into his speech:[[", 
+            "probability": 0.049228982945277, 
+            "start_logit": 0.40901631116867065, 
+            "end_logit": 0.18391139805316925
+        }, 
+        {
+            "text": "bet awards sunday night. three things before we delve into his speech:[[warning: strong language] 1. let me be sexist (", 
+            "probability": 0.04876974766151594, 
+            "start_logit": 0.40901631116867065, 
+            "end_logit": 0.17453905940055847
+        }, 
+        {
+            "text": "ve into his speech:[", 
+            "probability": 0.04834701968958312, 
+            "start_logit": 0.2698802649974823, 
+            "end_logit": 0.3049694895744324
+        }, 
+        {
+            "text": "let me be sexist (because yes, women can objectify men too) and racist because", 
+            "probability": 0.046262615152158966, 
+            "start_logit": 0.32366496324539185, 
+            "end_logit": 0.20711439847946167
+        }, 
+        {
+            "text": "be sexist (because yes, women can objectify men too) and racist because", 
+            "probability": 0.045676629602959054, 
+            "start_logit": 0.31091755628585815, 
+            "end_logit": 0.20711439847946167
+        }, 
+        {
+            "text": "are the brothers coming back into style? because", 
+            "probability": 0.045459794713010454, 
+            "start_logit": 0.25988131761550903, 
+            "end_logit": 0.25339215993881226
+        }, 
+        {
+            "text": "and racist because is it just me: are the brothers coming back into style? because", 
+            "probability": 0.04506468107506015, 
+            "start_logit": 0.25115182995796204, 
+            "end_logit": 0.25339215993881226
+        }, 
+        {
+            "text": "let me be sexist (because yes, women can object", 
+            "probability": 0.04506300634508409, 
+            "start_logit": 0.32366496324539185, 
+            "end_logit": 0.180841863155365
+        }, 
+        {
+            "text": "back into style? because", 
+            "probability": 0.0449876763697118, 
+            "start_logit": 0.24944160878658295, 
+            "end_logit": 0.25339215993881226
+        }, 
+        {
+            "text": "before we delve into his speech:[[", 
+            "probability": 0.04485759608311306, 
+            "start_logit": 0.3160267174243927, 
+            "end_logit": 0.18391139805316925
+        }, 
+        {
+            "text": "let me be sexist (", 
+            "probability": 0.04477987625347753, 
+            "start_logit": 0.32366496324539185, 
+            "end_logit": 0.17453905940055847
+        }, 
+        {
+            "text": "before we delve into his speech:[[warning: strong language] 1. let me be sexist (because yes, women can object", 
+            "probability": 0.04472011523557985, 
+            "start_logit": 0.3160267174243927, 
+            "end_logit": 0.180841863155365
+        }, 
+        {
+            "text": "", 
+            "probability": 0.022764581247585285, 
+            "start_logit": -0.11266814172267914, 
+            "end_logit": -0.06568080931901932
+        }
+    ], 
+    "6fa611f4-964c-4103-a2a0-941cb6d0ebab": [
+        {
+            "text": "bet awards on sunday. the show featured a commanding performance from beyonc\u00e9 and kendrick lamar,", 
+            "probability": 0.061058540624777266, 
+            "start_logit": 0.5777933597564697, 
+            "end_logit": 0.1142021119594574
+        }, 
+        {
+            "text": "bet awards on sunday. the show featured a commanding performance from beyonc\u00e9 and kendrick lamar, and tributes to", 
+            "probability": 0.06030642017840416, 
+            "start_logit": 0.5777933597564697, 
+            "end_logit": 0.1018075942993164
+        }, 
+        {
+            "text": "bet awards on sunday. the show featured a commanding performance from beyonc\u00e9 and kendrick lamar, and tribute", 
+            "probability": 0.05905017578089169, 
+            "start_logit": 0.5777933597564697, 
+            "end_logit": 0.0807565450668335
+        }, 
+        {
+            "text": "bet awards on sunday. the show featured a commanding performance from beyonc\u00e9 and kendrick lamar, and tributes to prince and muhammad ali. but mr", 
+            "probability": 0.05859311450352972, 
+            "start_logit": 0.5777933597564697, 
+            "end_logit": 0.07298621535301208
+        }, 
+        {
+            "text": "williams\u2019s speech, a demand for equal treatment and justice, was the strongest statement of the night. _", 
+            "probability": 0.05029519763460945, 
+            "start_logit": 0.426216185092926, 
+            "end_logit": 0.07185579836368561
+        }, 
+        {
+            "text": "kendrick lamar,", 
+            "probability": 0.047819876373490104, 
+            "start_logit": 0.3334016501903534, 
+            "end_logit": 0.1142021119594574
+        }, 
+        {
+            "text": "kendrick lamar, and tributes to", 
+            "probability": 0.04723083008454324, 
+            "start_logit": 0.3334016501903534, 
+            "end_logit": 0.1018075942993164
+        }, 
+        {
+            "text": "a commanding performance from beyonc\u00e9 and kendrick lamar,", 
+            "probability": 0.04689229672182864, 
+            "start_logit": 0.3138136863708496, 
+            "end_logit": 0.1142021119594574
+        }, 
+        {
+            "text": "a commanding performance from beyonc\u00e9 and kendrick lamar, and tributes to", 
+            "probability": 0.046314676379432665, 
+            "start_logit": 0.3138136863708496, 
+            "end_logit": 0.1018075942993164
+        }, 
+        {
+            "text": "kendrick lamar, and tribute", 
+            "probability": 0.04624696359888475, 
+            "start_logit": 0.3334016501903534, 
+            "end_logit": 0.0807565450668335
+        }, 
+        {
+            "text": "kendrick lamar, and tributes to prince and muhammad ali. but mr", 
+            "probability": 0.0458890019844257, 
+            "start_logit": 0.3334016501903534, 
+            "end_logit": 0.07298621535301208
+        }, 
+        {
+            "text": "performance from beyonc\u00e9 and kendrick lamar,", 
+            "probability": 0.04535302997528383, 
+            "start_logit": 0.28043726086616516, 
+            "end_logit": 0.1142021119594574
+        }, 
+        {
+            "text": "a commanding performance from beyonc\u00e9 and kendrick lamar, and tribute", 
+            "probability": 0.045349894312247375, 
+            "start_logit": 0.3138136863708496, 
+            "end_logit": 0.0807565450668335
+        }, 
+        {
+            "text": "a commanding performance from beyonc\u00e9 and kendrick lamar, and tributes to prince and muhammad ali. but mr", 
+            "probability": 0.0449988762102946, 
+            "start_logit": 0.3138136863708496, 
+            "end_logit": 0.07298621535301208
+        }, 
+        {
+            "text": "performance from beyonc\u00e9 and kendrick lamar, and tributes to", 
+            "probability": 0.044794370354527324, 
+            "start_logit": 0.28043726086616516, 
+            "end_logit": 0.1018075942993164
+        }, 
+        {
+            "text": "_", 
+            "probability": 0.044530501569418186, 
+            "start_logit": 0.30448096990585327, 
+            "end_logit": 0.07185579836368561
+        }, 
+        {
+            "text": "performance from beyonc\u00e9 and kendrick lamar, and tribute", 
+            "probability": 0.043861257816401156, 
+            "start_logit": 0.28043726086616516, 
+            "end_logit": 0.0807565450668335
+        }, 
+        {
+            "text": "performance from beyonc\u00e9 and kendrick lamar, and tributes to prince and muhammad ali. but mr", 
+            "probability": 0.04352176208655519, 
+            "start_logit": 0.28043726086616516, 
+            "end_logit": 0.07298621535301208
+        }, 
+        {
+            "text": "a demand for equal treatment and justice, was the strongest statement of the night. _", 
+            "probability": 0.04325857324599782, 
+            "start_logit": 0.2755020260810852, 
+            "end_logit": 0.07185579836368561
+        }, 
+        {
+            "text": "was the strongest statement of the night. _", 
+            "probability": 0.042513763369076564, 
+            "start_logit": 0.2581344544887543, 
+            "end_logit": 0.07185579836368561
+        }, 
+        {
+            "text": "", 
+            "probability": 0.032120877195380565, 
+            "start_logit": 0.06277782469987869, 
+            "end_logit": -0.013109240680932999
+        }
+    ], 
+    "a1384e0e-87e6-470b-87b1-783bff1ede03": [
+        {
+            "text": "every day. \" that comment was part of a powerful speech", 
+            "probability": 0.06016682178862101, 
+            "start_logit": 0.3887605667114258, 
+            "end_logit": 0.3599499762058258
+        }, 
+        {
+            "text": "and not kill white people every day. \" that comment was part of a powerful speech", 
+            "probability": 0.05922321366122257, 
+            "start_logit": 0.3729530870914459, 
+            "end_logit": 0.3599499762058258
+        }, 
+        {
+            "text": "every day. \" that comment was part of a", 
+            "probability": 0.05158914727128191, 
+            "start_logit": 0.3887605667114258, 
+            "end_logit": 0.20614023506641388
+        }, 
+        {
+            "text": "day. \" that comment was part of a powerful speech", 
+            "probability": 0.051526168430263405, 
+            "start_logit": 0.2337293028831482, 
+            "end_logit": 0.3599499762058258
+        }, 
+        {
+            "text": "every day. \" that comment was part of a powerful speech by the", 
+            "probability": 0.05079455173262676, 
+            "start_logit": 0.3887605667114258, 
+            "end_logit": 0.19061800837516785
+        }, 
+        {
+            "text": "and not kill white people every day. \" that comment was part of a", 
+            "probability": 0.05078006450434169, 
+            "start_logit": 0.3729530870914459, 
+            "end_logit": 0.20614023506641388
+        }, 
+        {
+            "text": "and not kill white people every day. \" that comment was part of a powerful speech by the", 
+            "probability": 0.049997930764165845, 
+            "start_logit": 0.3729530870914459, 
+            "end_logit": 0.19061800837516785
+        }, 
+        {
+            "text": "every day. \" that comment was part of a powerful speech by", 
+            "probability": 0.04931593109932967, 
+            "start_logit": 0.3887605667114258, 
+            "end_logit": 0.16107608377933502
+        }, 
+        {
+            "text": "and not kill white people every day. \" that comment was part of a powerful speech by", 
+            "probability": 0.04854249962975603, 
+            "start_logit": 0.3729530870914459, 
+            "end_logit": 0.16107608377933502
+        }, 
+        {
+            "text": "every day. \" that comment", 
+            "probability": 0.047901290727722534, 
+            "start_logit": 0.3887605667114258, 
+            "end_logit": 0.1319713592529297
+        }, 
+        {
+            "text": "and not kill white people every day. \" that comment", 
+            "probability": 0.04715004534197901, 
+            "start_logit": 0.3729530870914459, 
+            "end_logit": 0.1319713592529297
+        }, 
+        {
+            "text": "somehow manage to disarm and not kill white people every day. \" that comment was part of a powerful speech", 
+            "probability": 0.04700420911935324, 
+            "start_logit": 0.14187665283679962, 
+            "end_logit": 0.3599499762058258
+        }, 
+        {
+            "text": "every day. \" that comment was part of a powerful speech by the actor", 
+            "probability": 0.04628331734472058, 
+            "start_logit": 0.3887605667114258, 
+            "end_logit": 0.0976104885339737
+        }, 
+        {
+            "text": "every day. \" that comment was part of a powerful", 
+            "probability": 0.04610313100684415, 
+            "start_logit": 0.3887605667114258, 
+            "end_logit": 0.09370977431535721
+        }, 
+        {
+            "text": "every day. \" that comment was part", 
+            "probability": 0.04601892289582423, 
+            "start_logit": 0.3887605667114258, 
+            "end_logit": 0.09188158810138702
+        }, 
+        {
+            "text": "and not kill white people every day. \" that comment was part of a powerful speech by the actor", 
+            "probability": 0.04555744695450996, 
+            "start_logit": 0.3729530870914459, 
+            "end_logit": 0.0976104885339737
+        }, 
+        {
+            "text": "and not kill white people every day. \" that comment was part of a powerful", 
+            "probability": 0.04538008651449238, 
+            "start_logit": 0.3729530870914459, 
+            "end_logit": 0.09370977431535721
+        }, 
+        {
+            "text": "and not kill white people every day. \" that comment was part", 
+            "probability": 0.04529719905587837, 
+            "start_logit": 0.3729530870914459, 
+            "end_logit": 0.09188158810138702
+        }, 
+        {
+            "text": "day. \" that comment was part of a", 
+            "probability": 0.044180347448175554, 
+            "start_logit": 0.2337293028831482, 
+            "end_logit": 0.20614023506641388
+        }, 
+        {
+            "text": "day. \" that comment was part of a powerful speech by the", 
+            "probability": 0.04349986504372812, 
+            "start_logit": 0.2337293028831482, 
+            "end_logit": 0.19061800837516785
+        }, 
+        {
+            "text": "", 
+            "probability": 0.02368780966516303, 
+            "start_logit": -0.08487457036972046, 
+            "end_logit": -0.0985753983259201
+        }
+    ], 
+    "f1a7ffb3-673d-4702-8b97-d405353b1a0b": [
+        {
+            "text": "bet awards were broadcast over six different networks simultaneously. the most mentioned topics were prince, the election and gun control.", 
+            "probability": 0.4019169499984597, 
+            "start_logit": 0.46832701563835144, 
+            "end_logit": 0.03418870270252228
+        }, 
+        {
+            "text": "bet awards were broadcast over six different networks simultaneously.", 
+            "probability": 0.3972875912457523, 
+            "start_logit": 0.46832701563835144, 
+            "end_logit": 0.022603657096624374
+        }, 
+        {
+            "text": "", 
+            "probability": 0.20079545875578797, 
+            "start_logit": -0.16278237104415894, 
+            "end_logit": -0.028660614043474197
+        }
+    ], 
+    "a1a3dd9b-3e55-447e-9787-75959fc74a80": [
+        {
+            "text": "t", 
+            "probability": 0.1144286528079806, 
+            "start_logit": 0.4682832956314087, 
+            "end_logit": 0.34596601128578186
+        }, 
+        {
+            "text": "t. i. right before the bet awards show? progressives. republicans don\u2019t believe in cultural importance. progressive", 
+            "probability": 0.10408421798714994, 
+            "start_logit": 0.4682832956314087, 
+            "end_logit": 0.251214861869812
+        }, 
+        {
+            "text": "i. right before the bet awards show? progressives. republicans don\u2019t believe in cultural importance. progressive", 
+            "probability": 0.09545606868483306, 
+            "start_logit": 0.38174906373023987, 
+            "end_logit": 0.251214861869812
+        }, 
+        {
+            "text": "bet awards show? progressives. republicans don\u2019t believe in cultural importance. progressive", 
+            "probability": 0.093296188561216, 
+            "start_logit": 0.3588621914386749, 
+            "end_logit": 0.251214861869812
+        }, 
+        {
+            "text": "t believe in cultural importance. progressive", 
+            "probability": 0.08578538158426573, 
+            "start_logit": 0.27493155002593994, 
+            "end_logit": 0.251214861869812
+        }, 
+        {
+            "text": ". republicans don\u2019t believe in cultural importance. progressive", 
+            "probability": 0.08566927027039158, 
+            "start_logit": 0.27357712388038635, 
+            "end_logit": 0.251214861869812
+        }, 
+        {
+            "text": "t. i. right before the bet awards show? progressive", 
+            "probability": 0.08519715999166162, 
+            "start_logit": 0.4682832956314087, 
+            "end_logit": 0.050982601940631866
+        }, 
+        {
+            "text": "i. right before the bet awards show? progressive", 
+            "probability": 0.07813466933979173, 
+            "start_logit": 0.38174906373023987, 
+            "end_logit": 0.050982601940631866
+        }, 
+        {
+            "text": "bet awards show? progressive", 
+            "probability": 0.0763667197311649, 
+            "start_logit": 0.3588621914386749, 
+            "end_logit": 0.050982601940631866
+        }, 
+        {
+            "text": "? progressives. republicans don\u2019t believe in cultural importance. progressive", 
+            "probability": 0.07530464944652186, 
+            "start_logit": 0.14462481439113617, 
+            "end_logit": 0.251214861869812
+        }, 
+        {
+            "text": "? progressive", 
+            "probability": 0.06163991420681463, 
+            "start_logit": 0.14462481439113617, 
+            "end_logit": 0.050982601940631866
+        }, 
+        {
+            "text": "", 
+            "probability": 0.04463710738820856, 
+            "start_logit": -0.030431777238845825, 
+            "end_logit": -0.09670490771532059
+        }
+    ], 
+    "1d3563d2-624c-457e-bf3e-9cf010652c4e": [
+        {
+            "text": "t", 
+            "probability": 0.3792284917540994, 
+            "start_logit": 0.40308693051338196, 
+            "end_logit": 0.4340786635875702
+        }, 
+        {
+            "text": "t. i. right", 
+            "probability": 0.2551801929098767, 
+            "start_logit": 0.40308693051338196, 
+            "end_logit": 0.03790969401597977
+        }, 
+        {
+            "text": "i. right", 
+            "probability": 0.2220018027943651, 
+            "start_logit": 0.26380249857902527, 
+            "end_logit": 0.03790969401597977
+        }, 
+        {
+            "text": "", 
+            "probability": 0.14358951254165883, 
+            "start_logit": -0.07049308717250824, 
+            "end_logit": -0.0635216012597084
+        }
+    ], 
+    "3f52b3d4-4b8f-47c4-ad64-b02cef7fbe2e": [
+        {
+            "text": "after the shooting of michael brown in 2014. he later", 
+            "probability": 0.06482833434258252, 
+            "start_logit": 0.6114388704299927, 
+            "end_logit": 0.2538449466228485
+        }, 
+        {
+            "text": "bet awards, during which he vilified police officers and accused white people of approp", 
+            "probability": 0.0592029033885278, 
+            "start_logit": 0.4690089821815491, 
+            "end_logit": 0.30550265312194824
+        }, 
+        {
+            "text": "williams also protested in ferguson, missouri after the shooting of michael brown in 2014. he later", 
+            "probability": 0.058400825888077296, 
+            "start_logit": 0.5070261359214783, 
+            "end_logit": 0.2538449466228485
+        }, 
+        {
+            "text": "his acceptance speech at the bet awards, during which he vilified police officers and accused white people of approp", 
+            "probability": 0.05539378742169442, 
+            "start_logit": 0.4025058448314667, 
+            "end_logit": 0.30550265312194824
+        }, 
+        {
+            "text": "williams also protested", 
+            "probability": 0.054624040847775786, 
+            "start_logit": 0.5070261359214783, 
+            "end_logit": 0.18698900938034058
+        }, 
+        {
+            "text": "in ferguson, missouri after the shooting of michael brown in 2014. he later", 
+            "probability": 0.0507012752276134, 
+            "start_logit": 0.36564716696739197, 
+            "end_logit": 0.2538449466228485
+        }, 
+        {
+            "text": "he later", 
+            "probability": 0.05058230618649986, 
+            "start_logit": 0.3632979393005371, 
+            "end_logit": 0.2538449466228485
+        }, 
+        {
+            "text": "the actor was the subject of a petition calling for his firing from grey\u2019s anatomy following his", 
+            "probability": 0.047273905420711027, 
+            "start_logit": 0.42242464423179626, 
+            "end_logit": 0.12707486748695374
+        }, 
+        {
+            "text": "also protested in ferguson, missouri after the shooting of michael brown in 2014. he later", 
+            "probability": 0.046860897431648625, 
+            "start_logit": 0.28687968850135803, 
+            "end_logit": 0.2538449466228485
+        }, 
+        {
+            "text": "the union that \"there\u2019s a complete double standard and a complete", 
+            "probability": 0.04682405102634959, 
+            "start_logit": 0.3980860114097595, 
+            "end_logit": 0.1418520212173462
+        }, 
+        {
+            "text": "protested in ferguson, missouri after the shooting of michael brown in 2014. he later", 
+            "probability": 0.04657172429894723, 
+            "start_logit": 0.28068968653678894, 
+            "end_logit": 0.2538449466228485
+        }, 
+        {
+            "text": "later", 
+            "probability": 0.04652194588305222, 
+            "start_logit": 0.2796202600002289, 
+            "end_logit": 0.2538449466228485
+        }, 
+        {
+            "text": "his", 
+            "probability": 0.046341582186899884, 
+            "start_logit": 0.4025058448314667, 
+            "end_logit": 0.12707486748695374
+        }, 
+        {
+            "text": "he later said on cnn\u2019s state of the union that \"there\u2019s a complete double standard and a complete", 
+            "probability": 0.04522314031141291, 
+            "start_logit": 0.3632979393005371, 
+            "end_logit": 0.1418520212173462
+        }, 
+        {
+            "text": "also protested", 
+            "probability": 0.04383040028193134, 
+            "start_logit": 0.28687968850135803, 
+            "end_logit": 0.18698900938034058
+        }, 
+        {
+            "text": "protested", 
+            "probability": 0.04355992799369637, 
+            "start_logit": 0.28068968653678894, 
+            "end_logit": 0.18698900938034058
+        }, 
+        {
+            "text": "later said on cnn\u2019s state of the union that \"there\u2019s a complete double standard and a complete", 
+            "probability": 0.041592972816860994, 
+            "start_logit": 0.2796202600002289, 
+            "end_logit": 0.1418520212173462
+        }, 
+        {
+            "text": "state of the union that \"there\u2019s a complete double standard and a complete", 
+            "probability": 0.041499219850536145, 
+            "start_logit": 0.277363657951355, 
+            "end_logit": 0.1418520212173462
+        }, 
+        {
+            "text": "a petition calling for his firing from grey\u2019s anatomy following his", 
+            "probability": 0.041458769886652785, 
+            "start_logit": 0.29116562008857727, 
+            "end_logit": 0.12707486748695374
+        }, 
+        {
+            "text": "his firing from grey\u2019s anatomy following his", 
+            "probability": 0.040769282779968996, 
+            "start_logit": 0.2743951082229614, 
+            "end_logit": 0.12707486748695374
+        }, 
+        {
+            "text": "", 
+            "probability": 0.027938706528560994, 
+            "start_logit": 0.04206450283527374, 
+            "end_logit": -0.018510393798351288
+        }
+    ], 
+    "c3d7262c-8d50-41e7-a064-24f67a899e64": [
+        {
+            "text": "downey jr. and scarlett johansson to urge people to vote for former democratic presidential candidate hillary", 
+            "probability": 0.05549050586995799, 
+            "start_logit": 0.4602833390235901, 
+            "end_logit": 0.28705063462257385
+        }, 
+        {
+            "text": "ey jr. and scarlett johansson to urge people to vote for former democratic presidential candidate hillary", 
+            "probability": 0.05110843762822947, 
+            "start_logit": 0.3780210018157959, 
+            "end_logit": 0.28705063462257385
+        }, 
+        {
+            "text": "downey jr", 
+            "probability": 0.05076173070816984, 
+            "start_logit": 0.4602833390235901, 
+            "end_logit": 0.19798143208026886
+        }, 
+        {
+            "text": "democratic presidential candidate hillary", 
+            "probability": 0.05014521298103705, 
+            "start_logit": 0.3589944541454315, 
+            "end_logit": 0.28705063462257385
+        }, 
+        {
+            "text": "on\u2019s \"important\" political psa alongside avengers stars robert downey jr", 
+            "probability": 0.04982268740674234, 
+            "start_logit": 0.44161105155944824, 
+            "end_logit": 0.19798143208026886
+        }, 
+        {
+            "text": "against trump before. in september, the actor and activist appeared", 
+            "probability": 0.04935852050132133, 
+            "start_logit": 0.5297503471374512, 
+            "end_logit": 0.10048209130764008
+        }, 
+        {
+            "text": "williams has spoken out", 
+            "probability": 0.04930654477824281, 
+            "start_logit": 0.5238697528839111, 
+            "end_logit": 0.10530910640954971
+        }, 
+        {
+            "text": "hillary", 
+            "probability": 0.04929175368130633, 
+            "start_logit": 0.34182819724082947, 
+            "end_logit": 0.28705063462257385
+        }, 
+        {
+            "text": "johansson to urge people to vote for former democratic presidential candidate hillary", 
+            "probability": 0.04917750339698352, 
+            "start_logit": 0.33950766921043396, 
+            "end_logit": 0.28705063462257385
+        }, 
+        {
+            "text": "williams has spoken out against trump before. in september, the actor and activist appeared", 
+            "probability": 0.04906911484193046, 
+            "start_logit": 0.5238697528839111, 
+            "end_logit": 0.10048209130764008
+        }, 
+        {
+            "text": "downey jr. and scarlett johansson to urge people to vote for", 
+            "probability": 0.048801073390109896, 
+            "start_logit": 0.4602833390235901, 
+            "end_logit": 0.15859100222587585
+        }, 
+        {
+            "text": "against trump before. in september, the actor", 
+            "probability": 0.048672674211114576, 
+            "start_logit": 0.5297503471374512, 
+            "end_logit": 0.08648945391178131
+        }, 
+        {
+            "text": "williams has spoken out against trump before. in september, the actor", 
+            "probability": 0.04838728989992949, 
+            "start_logit": 0.5238697528839111, 
+            "end_logit": 0.08648945391178131
+        }, 
+        {
+            "text": "the actor and activist appeared in joss whedon\u2019s \"important\" political psa alongside avengers stars robert downey jr", 
+            "probability": 0.04791426725725883, 
+            "start_logit": 0.402553915977478, 
+            "end_logit": 0.19798143208026886
+        }, 
+        {
+            "text": "on\u2019s \"important\" political psa alongside avengers stars robert downey jr. and scarlett johansson to urge people to vote for", 
+            "probability": 0.047898300367398935, 
+            "start_logit": 0.44161105155944824, 
+            "end_logit": 0.15859100222587585
+        }, 
+        {
+            "text": "ey jr", 
+            "probability": 0.046753092391684896, 
+            "start_logit": 0.3780210018157959, 
+            "end_logit": 0.19798143208026886
+        }, 
+        {
+            "text": "the actor was the subject of a petition calling for his firing from grey\u2019s anatomy following his acceptance speech at the bet awards,", 
+            "probability": 0.04649511171129119, 
+            "start_logit": 0.3915691673755646, 
+            "end_logit": 0.17890004813671112
+        }, 
+        {
+            "text": "bet awards,", 
+            "probability": 0.045931792579318474, 
+            "start_logit": 0.3793795108795166, 
+            "end_logit": 0.17890004813671112
+        }, 
+        {
+            "text": "downey jr. and scarlett johansson to urge people to vote for former democratic presidential candidate hillary clinton. last year, the actor", 
+            "probability": 0.04572760725527941, 
+            "start_logit": 0.4602833390235901, 
+            "end_logit": 0.09354090690612793
+        }, 
+        {
+            "text": "downey", 
+            "probability": 0.04537350195170677, 
+            "start_logit": 0.4602833390235901, 
+            "end_logit": 0.08576697111129761
+        }, 
+        {
+            "text": "", 
+            "probability": 0.024513277190986383, 
+            "start_logit": 0.036835357546806335, 
+            "end_logit": -0.10649842768907547
+        }
+    ], 
+    "36e3467b-7335-4892-bf5f-94c9b9cd0dd7": [
+        {
+            "text": "bet awards, williams was presented", 
+            "probability": 0.05952057061943647, 
+            "start_logit": 0.5064326524734497, 
+            "end_logit": 0.29030176997184753
+        }, 
+        {
+            "text": "ve never seen a single episode of the show, i won\u2019t comment on that. at the 2016 bet awards, williams was presented", 
+            "probability": 0.05428138888830008, 
+            "start_logit": 0.4142920970916748, 
+            "end_logit": 0.29030176997184753
+        }, 
+        {
+            "text": "call that a good ratio. he\u2019s most famous for his acting in grey\u2019s anatomy, but since", 
+            "probability": 0.05313460367427782, 
+            "start_logit": 0.4568879008293152, 
+            "end_logit": 0.22635293006896973
+        }, 
+        {
+            "text": "call that a good ratio. he\u2019s most famous for", 
+            "probability": 0.052474067729120374, 
+            "start_logit": 0.4568879008293152, 
+            "end_logit": 0.21384364366531372
+        }, 
+        {
+            "text": "williams was presented", 
+            "probability": 0.05238835287033703, 
+            "start_logit": 0.37879496812820435, 
+            "end_logit": 0.29030176997184753
+        }, 
+        {
+            "text": "ve never seen a single episode of the show, i won\u2019t comment on", 
+            "probability": 0.052113018642535945, 
+            "start_logit": 0.4142920970916748, 
+            "end_logit": 0.24953514337539673
+        }, 
+        {
+            "text": "never seen a single episode of the show, i won\u2019t comment on that. at the 2016 bet awards, williams was presented", 
+            "probability": 0.049166517669345766, 
+            "start_logit": 0.31532353162765503, 
+            "end_logit": 0.29030176997184753
+        }, 
+        {
+            "text": "bet awards, williams was presented with a", 
+            "probability": 0.04786359798953068, 
+            "start_logit": 0.5064326524734497, 
+            "end_logit": 0.07233504951000214
+        }, 
+        {
+            "text": "call that a good ratio. he\u2019s most famous", 
+            "probability": 0.04764251066630288, 
+            "start_logit": 0.4568879008293152, 
+            "end_logit": 0.1172499880194664
+        }, 
+        {
+            "text": "never seen a single episode of the show, i won\u2019t comment on", 
+            "probability": 0.04720247039300526, 
+            "start_logit": 0.31532353162765503, 
+            "end_logit": 0.24953514337539673
+        }, 
+        {
+            "text": "won\u2019t comment on that. at the 2016 bet awards, williams was presented", 
+            "probability": 0.04718914760155244, 
+            "start_logit": 0.274274617433548, 
+            "end_logit": 0.29030176997184753
+        }, 
+        {
+            "text": "good ratio. he\u2019s most famous for his acting in grey\u2019s anatomy, but since", 
+            "probability": 0.046833563422852144, 
+            "start_logit": 0.3306596279144287, 
+            "end_logit": 0.22635293006896973
+        }, 
+        {
+            "text": "i won\u2019t comment on that. at the 2016 bet awards, williams was presented", 
+            "probability": 0.046698187570067294, 
+            "start_logit": 0.2638160288333893, 
+            "end_logit": 0.29030176997184753
+        }, 
+        {
+            "text": "a good ratio. he\u2019s most famous for his acting in grey\u2019s anatomy, but since", 
+            "probability": 0.046326395422015984, 
+            "start_logit": 0.319771409034729, 
+            "end_logit": 0.22635293006896973
+        }, 
+        {
+            "text": "good ratio. he\u2019s most famous for", 
+            "probability": 0.04625135804365628, 
+            "start_logit": 0.3306596279144287, 
+            "end_logit": 0.21384364366531372
+        }, 
+        {
+            "text": "call that a good ratio. he\u2019s most famous for his acting", 
+            "probability": 0.04606227619239896, 
+            "start_logit": 0.4568879008293152, 
+            "end_logit": 0.0835188552737236
+        }, 
+        {
+            "text": "a good ratio. he\u2019s most famous for", 
+            "probability": 0.04575049483614915, 
+            "start_logit": 0.319771409034729, 
+            "end_logit": 0.21384364366531372
+        }, 
+        {
+            "text": "won\u2019t comment on", 
+            "probability": 0.045304090021453684, 
+            "start_logit": 0.274274617433548, 
+            "end_logit": 0.24953514337539673
+        }, 
+        {
+            "text": "ve never seen a single episode of the show, i won\u2019t comment", 
+            "probability": 0.04502821295774269, 
+            "start_logit": 0.4142920970916748, 
+            "end_logit": 0.10340959578752518
+        }, 
+        {
+            "text": "i won\u2019t comment on", 
+            "probability": 0.044832742294405384, 
+            "start_logit": 0.2638160288333893, 
+            "end_logit": 0.24953514337539673
+        }, 
+        {
+            "text": "", 
+            "probability": 0.023936432495513475, 
+            "start_logit": 0.09350982308387756, 
+            "end_logit": -0.20769570767879486
+        }
+    ], 
+    "c87bd531-6d8b-4697-95ac-3b7680a2a1c7": [
+        {
+            "text": "song,", 
+            "probability": 0.05943675675590348, 
+            "start_logit": 0.5992909073829651, 
+            "end_logit": -0.0009138770401477814
+        }, 
+        {
+            "text": "song, \"dna,\" sees another fox news audio", 
+            "probability": 0.059336024084778165, 
+            "start_logit": 0.5992909073829651, 
+            "end_logit": -0.0026101022958755493
+        }, 
+        {
+            "text": "bet awards. the second song,", 
+            "probability": 0.05355874296160226, 
+            "start_logit": 0.4951571226119995, 
+            "end_logit": -0.0009138770401477814
+        }, 
+        {
+            "text": "bet awards. the second song, \"dna,\" sees another fox news audio", 
+            "probability": 0.05346797227465523, 
+            "start_logit": 0.4951571226119995, 
+            "end_logit": -0.0026101022958755493
+        }, 
+        {
+            "text": "the second song,", 
+            "probability": 0.051623069335489644, 
+            "start_logit": 0.45834672451019287, 
+            "end_logit": -0.0009138770401477814
+        }, 
+        {
+            "text": "the second song, \"dna,\" sees another fox news audio", 
+            "probability": 0.05153557920396703, 
+            "start_logit": 0.45834672451019287, 
+            "end_logit": -0.0026101022958755493
+        }, 
+        {
+            "text": "\" sees another fox news audio", 
+            "probability": 0.04962932147188968, 
+            "start_logit": 0.42065611481666565, 
+            "end_logit": -0.0026101022958755493
+        }, 
+        {
+            "text": "ugh", 
+            "probability": 0.04940125146087712, 
+            "start_logit": 0.3810717761516571, 
+            "end_logit": 0.03236817568540573
+        }, 
+        {
+            "text": "u", 
+            "probability": 0.04830109033417091, 
+            "start_logit": 0.3810717761516571, 
+            "end_logit": 0.009846553206443787
+        }, 
+        {
+            "text": "\"dna,\" sees another fox news audio", 
+            "probability": 0.04788619348015154, 
+            "start_logit": 0.3849015235900879, 
+            "end_logit": -0.0026101022958755493
+        }, 
+        {
+            "text": "ugh , i don\u2019t like it\u2019 \" \u2014 which he performed standing atop a police car at the 2015 bet awards. the second song,", 
+            "probability": 0.047784136133635816, 
+            "start_logit": 0.3810717761516571, 
+            "end_logit": -0.0009138770401477814
+        }, 
+        {
+            "text": "\" \u2014 which he performed standing atop a police car at the 2015 bet awards. the second song,", 
+            "probability": 0.046887097301802266, 
+            "start_logit": 0.3621205985546112, 
+            "end_logit": -0.0009138770401477814
+        }, 
+        {
+            "text": "\" \u2014 which he performed standing atop a police car at the 2015 bet awards. the second song, \"dna,\" sees another fox news audio", 
+            "probability": 0.04680763363638188, 
+            "start_logit": 0.3621205985546112, 
+            "end_logit": -0.0026101022958755493
+        }, 
+        {
+            "text": "gh", 
+            "probability": 0.044986154801079974, 
+            "start_logit": 0.28745079040527344, 
+            "end_logit": 0.03236817568540573
+        }, 
+        {
+            "text": "he performed standing atop a police car at the 2015 bet awards. the second song,", 
+            "probability": 0.04471584157606864, 
+            "start_logit": 0.31470590829849243, 
+            "end_logit": -0.0009138770401477814
+        }, 
+        {
+            "text": "he performed standing atop a police car at the 2015 bet awards. the second song, \"dna,\" sees another fox news audio", 
+            "probability": 0.04464005772766533, 
+            "start_logit": 0.31470590829849243, 
+            "end_logit": -0.0026101022958755493
+        }, 
+        {
+            "text": "\u2026 ugh", 
+            "probability": 0.04439827125048619, 
+            "start_logit": 0.2742965519428253, 
+            "end_logit": 0.03236817568540573
+        }, 
+        {
+            "text": "gh , i don\u2019t like it\u2019 \" \u2014 which he performed standing atop a police car at the 2015 bet awards. the second song,", 
+            "probability": 0.043513564567205266, 
+            "start_logit": 0.28745079040527344, 
+            "end_logit": -0.0009138770401477814
+        }, 
+        {
+            "text": "\u2026 u", 
+            "probability": 0.04340952601269752, 
+            "start_logit": 0.2742965519428253, 
+            "end_logit": 0.009846553206443787
+        }, 
+        {
+            "text": "it\u2019 \" \u2014 which he performed standing atop a police car at the 2015 bet awards. the second song,", 
+            "probability": 0.04241594234708722, 
+            "start_logit": 0.2619023621082306, 
+            "end_logit": -0.0009138770401477814
+        }, 
+        {
+            "text": "", 
+            "probability": 0.02626577328240495, 
+            "start_logit": 0.03169584274291992, 
+            "end_logit": -0.24996495246887207
+        }
+    ], 
+    "70129fbd-383f-49b5-92d0-b34440de004d": [
+        {
+            "text": "a black lives matter speech", 
+            "probability": 0.056330988778673735, 
+            "start_logit": 0.5459257364273071, 
+            "end_logit": 0.26498711109161377
+        }, 
+        {
+            "text": "a black lives matter speech, and i wrote a responding article on breit", 
+            "probability": 0.05512066354944346, 
+            "start_logit": 0.5459257364273071, 
+            "end_logit": 0.2432669699192047
+        }, 
+        {
+            "text": "a black lives matter", 
+            "probability": 0.054294957192028516, 
+            "start_logit": 0.5459257364273071, 
+            "end_logit": 0.2281736582517624
+        }, 
+        {
+            "text": "a black lives matter speech, and i wrote a responding", 
+            "probability": 0.053884705305908005, 
+            "start_logit": 0.5459257364273071, 
+            "end_logit": 0.22058898210525513
+        }, 
+        {
+            "text": "bet awards until jesse williams took the stage, as she told siriusxm host stephen k", 
+            "probability": 0.052891713927219884, 
+            "start_logit": 0.2895936369895935, 
+            "end_logit": 0.45832109451293945
+        }, 
+        {
+            "text": "k", 
+            "probability": 0.05150901015294516, 
+            "start_logit": 0.2631036937236786, 
+            "end_logit": 0.45832109451293945
+        }, 
+        {
+            "text": "good time with this year \u2019s bet awards until jesse williams took the stage, as she told siriusxm host stephen k", 
+            "probability": 0.05134442209185982, 
+            "start_logit": 0.2599032521247864, 
+            "end_logit": 0.45832109451293945
+        }, 
+        {
+            "text": "sonnie johnson was having a pretty good time with this year \u2019s bet awards until jesse williams took the stage, as she told sirius", 
+            "probability": 0.05005173497213607, 
+            "start_logit": 0.39111554622650146, 
+            "end_logit": 0.30160966515541077
+        }, 
+        {
+            "text": "a pretty good time with this year \u2019s bet awards until jesse williams took the stage, as she told siriusxm host stephen k", 
+            "probability": 0.04892084587927081, 
+            "start_logit": 0.2115505486726761, 
+            "end_logit": 0.45832109451293945
+        }, 
+        {
+            "text": "this speech, a black lives matter speech", 
+            "probability": 0.04767596863780109, 
+            "start_logit": 0.37910839915275574, 
+            "end_logit": 0.26498711109161377
+        }, 
+        {
+            "text": "sonnie johnson was having a pretty good time with this year \u2019s bet awards until jesse williams took the stage, as she told", 
+            "probability": 0.04674005698672811, 
+            "start_logit": 0.39111554622650146, 
+            "end_logit": 0.2331540435552597
+        }, 
+        {
+            "text": "this speech, a black lives matter speech, and i wrote a responding article on breit", 
+            "probability": 0.046651604803233215, 
+            "start_logit": 0.37910839915275574, 
+            "end_logit": 0.2432669699192047
+        }, 
+        {
+            "text": "sonnie johnson was having a pretty good time with this year \u2019s bet awards until jesse williams took the stage, as", 
+            "probability": 0.0464235360985217, 
+            "start_logit": 0.39111554622650146, 
+            "end_logit": 0.2263590693473816
+        }, 
+        {
+            "text": "this speech, a black lives matter", 
+            "probability": 0.04595276476414178, 
+            "start_logit": 0.37910839915275574, 
+            "end_logit": 0.2281736582517624
+        }, 
+        {
+            "text": "bannon on friday\u2019s breitbart news daily. [", 
+            "probability": 0.04583612421788392, 
+            "start_logit": 0.2742304801940918, 
+            "end_logit": 0.33051007986068726
+        }, 
+        {
+            "text": "this speech, a black lives matter speech, and i wrote a responding", 
+            "probability": 0.04560554635948837, 
+            "start_logit": 0.37910839915275574, 
+            "end_logit": 0.22058898210525513
+        }, 
+        {
+            "text": "k. bannon on friday\u2019s breitbart news daily. [", 
+            "probability": 0.045328942335973905, 
+            "start_logit": 0.2631036937236786, 
+            "end_logit": 0.33051007986068726
+        }, 
+        {
+            "text": "bet awards until jesse williams took the stage, as she told sirius", 
+            "probability": 0.04521980979837079, 
+            "start_logit": 0.2895936369895935, 
+            "end_logit": 0.30160966515541077
+        }, 
+        {
+            "text": "i wrote a responding article on breit", 
+            "probability": 0.04424690548277778, 
+            "start_logit": 0.32618650794029236, 
+            "end_logit": 0.2432669699192047
+        }, 
+        {
+            "text": "good time with this year \u2019s bet awards until jesse williams took the stage, as she told sirius", 
+            "probability": 0.04389695150351894, 
+            "start_logit": 0.2599032521247864, 
+            "end_logit": 0.30160966515541077
+        }, 
+        {
+            "text": "", 
+            "probability": 0.022072747162075027, 
+            "start_logit": -0.12892645597457886, 
+            "end_logit": 0.0029381848871707916
+        }
+    ]
+}
